@@ -1,5 +1,5 @@
 #!/bin/sh
 
-/sbin/modprobe brcmfmac
-/sbin/modprobe mac80211_hwsim
+#/sbin/modprobe brcmfmac
+/sbin/modprobe 8192cu
 
